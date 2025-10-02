@@ -1,6 +1,8 @@
-# 👋 Welcome to Ali Durul GitHub  
 
-This is the official GitHub organization for the **Ali Durul YouTube channel**.  
+<img width="2560" height="485" alt="Youtube Banner 2" src="https://github.com/user-attachments/assets/417e0d32-7d0e-4a6d-b3de-dcafc1194775" />
+
+
+👋 Welcome , This is the official GitHub organization for the **Ali Durul YouTube channel**.  
 Here you’ll find the code, projects, and resources shared in my tutorials.  
 
 ## 🎯 What You’ll Find
@@ -18,12 +20,6 @@ Here you’ll find the code, projects, and resources shared in my tutorials.
 ## 📺 Learn With the Tutorials
 Check out the YouTube channel for step-by-step guides and coding series:  
 👉 [YouTube: Ali Durul](https://youtube.com/@alidurul)  
-
-## 🤝 Community & Contribution
-This space is not just for code — it’s for learning and growing together.  
-- Open issues to suggest topics or improvements  
-- Contribute to the example projects  
-- Share feedback to shape future tutorials  
 
 ## 🚀 Motto
 **Code | Learn | Build**  
